@@ -1,0 +1,30 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "a campsite reviewing website made by following tutorials on udemy @ Colt Steele - The Web Developer Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AathinPrince/yelpcamp.git"
+  },
+  "keywords": [
+    "web",
+    "express",
+    "mongodb",
+    "campsite"
+  ],
+  "author": "AathinPrince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AathinPrince/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/AathinPrince/yelpcamp#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3"
+  }
+}
